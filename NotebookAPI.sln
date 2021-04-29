@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotebookAPI", "NotebookAPI\NotebookAPI.csproj", "{14C5202B-5E7B-4BCF-B791-AC6044388EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{F86DC0AF-F9C7-455C-A7AB-7294C3B3E78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C5202B-5E7B-4BCF-B791-AC6044388EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C5202B-5E7B-4BCF-B791-AC6044388EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C5202B-5E7B-4BCF-B791-AC6044388EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C5202B-5E7B-4BCF-B791-AC6044388EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86DC0AF-F9C7-455C-A7AB-7294C3B3E78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86DC0AF-F9C7-455C-A7AB-7294C3B3E78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86DC0AF-F9C7-455C-A7AB-7294C3B3E78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86DC0AF-F9C7-455C-A7AB-7294C3B3E78F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECCC1A6-C633-4B01-BE1B-9B13945E5454}
+	EndGlobalSection
+EndGlobal
